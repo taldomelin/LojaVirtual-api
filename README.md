@@ -29,7 +29,8 @@ copy .env.example .env
 ```
 code .
 ```
-
+## Insomnia
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Lojas%20Virtual&uri=https%3A%2F%2Fraw.githubusercontent.com%2Ftaldomelin%2FLojaVirtual-api%2Fmain%2FInsomnia.jason%3Ftoken%3DGHSAT0AAAAAACGBYKDW2W2TNORWCYMH6FUCZGSES3Q)
 
 ## Licença
 
