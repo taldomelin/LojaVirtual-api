@@ -22,7 +22,7 @@ Certifique-se de ter os seguintes requisitos atendidos antes de começar a traba
 
 1. Clone este repositório para o seu ambiente de desenvolvimento local utilizando o comando:
 ```
- git clone https://github.com/Matheus438/lojavirtual-api.git
+ git clone https://github.com/taldomelin/lojavirtual-api.git
 ```
 2. Acesse o diretório do projeto:
 ```
@@ -41,13 +41,13 @@ copy env.example .env
 code.
 ```
 ## insominia
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Lojavirtual&uri=https%3A%2F%2Fraw.githubusercontent.com%2FMatheus438%2Flojavirtual-api%2Fmain%2FInsomnia.json%3Ftoken%3DGHSAT0AAAAAACGBYCNWQ6MUM2BYYKUEH2DIZGSEW6A)
+[![Run in Insomnia}](<a href="https://insomnia.rest/run/?label=LojaVirtual-api&uri=https%3A%2F%2Fgithub.com%2Ftaldomelin%2FLojaVirtual-api.git" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>)
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE), o que significa que você pode utilizá-lo livremente para fins educacionais, comerciais ou pessoais.
 
 ## Contato
 
-Em caso de dúvidas, sugestões ou problemas, sinta-se à vontade para entrar em contato através do email: matheusbispoa3@gmail.com.
+Em caso de dúvidas, sugestões ou problemas, sinta-se à vontade para entrar em contato através do email:gumelo.cant@gmail.com .
 
 **Aviso**: Certifique-se de substituir "seu_usuario" no link de clonagem e "seu_email@example.com" na seção de contato pelos valores correspondentes do seu próprio usuário do GitHub e endereço de e-mail.
